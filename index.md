@@ -11,7 +11,7 @@ I can be reached at [firstname] @tamu.edu.
 
 [Download my CV](CV.pdf)
 
-### Working Papers 
+## Working Papers 
 
 [Darker Blue: How Small Donors Drive Congressional Polarization](ab_web_version.pdf) 
 
@@ -20,7 +20,7 @@ I can be reached at [firstname] @tamu.edu.
 
 [Long Ballots Reduce Voter Turnout](ballot_length_web.pdf) [\[OSF\]](https://osf.io/preprints/socarxiv/j5gx3_v1)
 
-### Published Papers
+## Published Papers
 [Campaign Finance Vouchers Do Not Expand the Diversity of Donors: Evidence from Seattle.](https://doi.org/10.1017/S0003055424000170) American Political Science Review (2025)
 
 [Are Dead People Voting by Mail: Evidence from Washington State Administrative Data.](https://www.liebertpub.com/doi/pdf/10.1089/elj.2023.0047) With Jennifer Wu, Hanna Folsz, Sandy Handan-Nader, Andrew Myers, Toby Nowacki, Daniel M. Thompson, Jesse Yoder, Andrew B. Hall.  Election Law Journal (2025)
