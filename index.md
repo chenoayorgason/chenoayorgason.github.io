@@ -20,4 +20,4 @@ I can be reached at [firstname] @tamu.edu. [Download my CV](CV.pdf)
 [Buying Followers: The Political Consequences of the Twitter Acquisition.](Twitter_web.pdf) With [Theo Serlin](http://theo-serlin.github.io)
 [\[OSF\]](https://osf.io/preprints/socarxiv/tzp98_v1)
 
-[Long Ballots Reduce Voter Turnout](ballot_length_web.pdf)[\[OSF\]](https://osf.io/preprints/socarxiv/j5gx3_v1)
+[Long Ballots Reduce Voter Turnout](ballot_length_web.pdf) [\[OSF\]](https://osf.io/preprints/socarxiv/j5gx3_v1)
