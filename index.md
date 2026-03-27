@@ -3,7 +3,9 @@
 
 I completed my BS in Economics and Statistics and BA in Political Science at the University of Pittsburgh. Before pursing a PhD, I worked in actuarial consulting. In my spare time, I can be found exploring the American West, rock climbing, cooking with a very vague sense of a recipe, and quoting zingers from early seasons of The Simpsons. 
 
-I can be reached at [firstname] @tamu.edu. [Download my CV](CV.pdf)
+I can be reached at [firstname] @tamu.edu.
+
+[Download my CV](CV.pdf)
 
 ### Working Papers 
 
