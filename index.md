@@ -13,7 +13,7 @@ I can be reached at [firstname] @tamu.edu.
 
 ## Working Papers 
 
-[Darker Blue: How Small Donors Drive Congressional Polarization](ab_web_version.pdf) 
+[Darker Blue: How Small Donors Drive Congressional Polarization](ab_web_version.pdf) _Conditionally Accepted at AJPS_
 
 [Buying Followers: The Political Consequences of the Twitter Acquisition.](Twitter_web.pdf) With [Theo Serlin](http://theo-serlin.github.io)
 [\[OSF\]](https://osf.io/preprints/socarxiv/tzp98_v1)
